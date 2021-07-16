@@ -1,0 +1,121 @@
+Gender,Educational attainment,Year of Period (group),Month of Period,Percent unemployed
+Female,High school or less,2020,December,0.089
+Female,High school or less,2020,November,0.082
+Female,High school or less,2020,October,0.088
+Female,High school or less,2020,September,0.103
+Female,High school or less,2020,August,0.122
+Female,High school or less,2020,July,0.14
+Female,High school or less,2020,June,0.15
+Female,High school or less,2020,May,0.195
+Female,High school or less,2020,April,0.222
+Female,High school or less,2020,March,0.059
+Female,High school or less,2020,February,0.05
+Female,High school or less,2020,January,0.054
+Female,High school or less,2021,March,0.081
+Female,High school or less,2021,February,0.084
+Female,High school or less,2021,January,0.089
+Female,Some college,2020,December,0.074
+Female,Some college,2020,November,0.068
+Female,Some college,2020,October,0.079
+Female,Some college,2020,September,0.105
+Female,Some college,2020,August,0.104
+Female,Some college,2020,July,0.137
+Female,Some college,2020,June,0.147
+Female,Some college,2020,May,0.18
+Female,Some college,2020,April,0.201
+Female,Some college,2020,March,0.048
+Female,Some college,2020,February,0.035
+Female,Some college,2020,January,0.045
+Female,Some college,2021,March,0.063
+Female,Some college,2021,February,0.069
+Female,Some college,2021,January,0.071
+Female,Associate's degree,2020,December,0.052
+Female,Associate's degree,2020,November,0.057
+Female,Associate's degree,2020,October,0.061
+Female,Associate's degree,2020,September,0.075
+Female,Associate's degree,2020,August,0.078
+Female,Associate's degree,2020,July,0.102
+Female,Associate's degree,2020,June,0.106
+Female,Associate's degree,2020,May,0.147
+Female,Associate's degree,2020,April,0.16
+Female,Associate's degree,2020,March,0.033
+Female,Associate's degree,2020,February,0.028
+Female,Associate's degree,2020,January,0.026
+Female,Associate's degree,2021,March,0.053
+Female,Associate's degree,2021,February,0.05
+Female,Associate's degree,2021,January,0.054
+Female,Bachelor's degree or higher,2020,December,0.038
+Female,Bachelor's degree or higher,2020,November,0.039
+Female,Bachelor's degree or higher,2020,October,0.041
+Female,Bachelor's degree or higher,2020,September,0.05
+Female,Bachelor's degree or higher,2020,August,0.063
+Female,Bachelor's degree or higher,2020,July,0.083
+Female,Bachelor's degree or higher,2020,June,0.081
+Female,Bachelor's degree or higher,2020,May,0.085
+Female,Bachelor's degree or higher,2020,April,0.094
+Female,Bachelor's degree or higher,2020,March,0.024
+Female,Bachelor's degree or higher,2020,February,0.018
+Female,Bachelor's degree or higher,2020,January,0.018
+Female,Bachelor's degree or higher,2021,March,0.037
+Female,Bachelor's degree or higher,2021,February,0.039
+Female,Bachelor's degree or higher,2021,January,0.041
+Male,High school or less,2020,December,0.088
+Male,High school or less,2020,November,0.08
+Male,High school or less,2020,October,0.082
+Male,High school or less,2020,September,0.091
+Male,High school or less,2020,August,0.1
+Male,High school or less,2020,July,0.117
+Male,High school or less,2020,June,0.127
+Male,High school or less,2020,May,0.153
+Male,High school or less,2020,April,0.172
+Male,High school or less,2020,March,0.064
+Male,High school or less,2020,February,0.055
+Male,High school or less,2020,January,0.058
+Male,High school or less,2021,March,0.084
+Male,High school or less,2021,February,0.095
+Male,High school or less,2021,January,0.093
+Male,Some college,2020,December,0.076
+Male,Some college,2020,November,0.072
+Male,Some college,2020,October,0.071
+Male,Some college,2020,September,0.081
+Male,Some college,2020,August,0.084
+Male,Some college,2020,July,0.099
+Male,Some college,2020,June,0.128
+Male,Some college,2020,May,0.145
+Male,Some college,2020,April,0.172
+Male,Some college,2020,March,0.05
+Male,Some college,2020,February,0.041
+Male,Some college,2020,January,0.036
+Male,Some college,2021,March,0.077
+Male,Some college,2021,February,0.066
+Male,Some college,2021,January,0.074
+Male,Associate's degree,2020,December,0.059
+Male,Associate's degree,2020,November,0.055
+Male,Associate's degree,2020,October,0.058
+Male,Associate's degree,2020,September,0.066
+Male,Associate's degree,2020,August,0.072
+Male,Associate's degree,2020,July,0.095
+Male,Associate's degree,2020,June,0.087
+Male,Associate's degree,2020,May,0.111
+Male,Associate's degree,2020,April,0.116
+Male,Associate's degree,2020,March,0.038
+Male,Associate's degree,2020,February,0.029
+Male,Associate's degree,2020,January,0.025
+Male,Associate's degree,2021,March,0.058
+Male,Associate's degree,2021,February,0.065
+Male,Associate's degree,2021,January,0.068
+Male,Bachelor's degree or higher,2020,December,0.037
+Male,Bachelor's degree or higher,2020,November,0.042
+Male,Bachelor's degree or higher,2020,October,0.041
+Male,Bachelor's degree or higher,2020,September,0.046
+Male,Bachelor's degree or higher,2020,August,0.053
+Male,Bachelor's degree or higher,2020,July,0.065
+Male,Bachelor's degree or higher,2020,June,0.067
+Male,Bachelor's degree or higher,2020,May,0.064
+Male,Bachelor's degree or higher,2020,April,0.076
+Male,Bachelor's degree or higher,2020,March,0.025
+Male,Bachelor's degree or higher,2020,February,0.02
+Male,Bachelor's degree or higher,2020,January,0.023
+Male,Bachelor's degree or higher,2021,March,0.037
+Male,Bachelor's degree or higher,2021,February,0.039
+Male,Bachelor's degree or higher,2021,January,0.041
